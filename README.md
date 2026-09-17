@@ -2,6 +2,8 @@
 
 一个可离线游玩的网页调查 demo。打开 `index.html` 即可开始，进度保存在当前浏览器的 `localStorage` 中。
 
+**在线游玩：** https://anonchihaya111.github.io/huanyuanliu-expanded/
+
 ## 2026-09-17 修正版
 
 - 补齐全新存档的晚报阅读状态与地图默认图层，避免隐藏结局流程中断。
